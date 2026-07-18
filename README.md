@@ -87,31 +87,16 @@ El flujo general del juego es el siguiente:
 ```
 EscapeLab/
 │
-├── README.md
-└── main.py
+├──main.py
+├──version2.py
+└── README.md
 ```
 
 ---
 
-## ▶️ Ejecución
+## 💻 Tecnologías utilizadas
 
-Clona el repositorio y ejecuta el archivo principal.
-
-```bash
-python main.py
-```
-
-o
-
-```bash
-python3 main.py
-```
-
----
-
-## 💻 Tecnologías
-
-- Python 3
+- Python 
 - Visual Studio Code
 - Consola / Terminal
 
@@ -149,11 +134,11 @@ Más que aprender únicamente la sintaxis de Python, comprendí cómo los concep
 
 ## 🙏 Agradecimientos
 
-Quiero expresar un agradecimiento especial al **Ingeniero Alfonso Lara**, fundador de **DevSenior**, por compartir su conocimiento y metodología de enseñanza.
+Quiero expresar un agradecimiento especial al **Ingeniero Alfonso Lara** por compartir su conocimiento y metodología de enseñanza y **DevSenior** por permitirnos este espacio para aprender a programar Python de una manera sencilla y divertida.
 
 El enfoque basado en proyectos utilizado durante sus clases permitió comprender cómo desarrollar una aplicación paso a paso, introduciendo cada concepto de Python en el momento en que era necesario para resolver un problema real.
 
-Este proyecto fue realizado como práctica personal inspirada en ese proceso de aprendizaje, aplicando los fundamentos adquiridos durante el curso.
+Este proyecto fue realizado como práctica personal inspirado en ese proceso de aprendizaje, aplicando los fundamentos adquiridos durante el curso.
 
 Muchas gracias por contribuir al crecimiento de la comunidad de desarrolladores.
 
